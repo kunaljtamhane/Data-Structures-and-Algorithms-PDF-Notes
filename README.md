@@ -5,10 +5,10 @@ This repository contains comprehensive notes on Data Structures and Algorithms (
 
 **Introduction to Java**
 - Working of JDM, JRE, Hello World
--Basics of Java Programming
--Object-Oriented Programming (OOP) Concepts
--Commonly Used Libraries and Frameworks
--Java for Data Structures and Algorithms
+- Basics of Java Programming
+- Object-Oriented Programming (OOP) Concepts
+- Commonly Used Libraries and Frameworks
+- Java for Data Structures and Algorithms
 
 **Arrays**
 - Array Introduction and Syntax
