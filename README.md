@@ -11,6 +11,8 @@ I recommend Going through the Notes first and then to the Codes Which are in dif
 - Object-Oriented Programming (OOP) Concepts
 - Commonly Used Libraries and Frameworks
 - Java for Data Structures and Algorithms
+- Fibonacci Series
+- Reversing a Digit
 
 **Arrays**
 - Array Introduction and Syntax
