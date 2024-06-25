@@ -21,5 +21,16 @@ I recommend Going through the Notes first and then to the Codes Which are in dif
 - Array Programs (Reversing, Swap etc)
 - ArrayList
 
+**Linear Search Algorithm**
+- Linear Searching Element in an Array
+- Time Complexity of Linear Search
+- Returning the Index of the Search
+- Returning the Element of the Search
+- Searching in String
+- Search in Range
+- Finding minimum in the array
+- Searching in 2D Array
+- LeetCode 1295: Finding elements which have even number of Digits (https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
+
 
 
