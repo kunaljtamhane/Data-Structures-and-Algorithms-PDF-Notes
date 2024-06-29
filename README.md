@@ -36,7 +36,7 @@ I recommend Going through the Notes first and then to the Codes Which are in dif
 
 **Binary Search Algorithm**
 - Algorithm
-- Why Binary Search?
+- Why Binary Search is Better than Linear Search?
 - Time Complexity of BS
 - Binary Search code
 - Order Agnostic Binary Search
