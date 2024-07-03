@@ -55,6 +55,69 @@ I recommend Going through the Notes first and then to the Codes Which are in dif
 - Searching in 2D Array or Matrices
 - Complexity for searching in 2D Array
 - Code for Searching in Matrices (2D Array)
+
+**Sorting Algorithms**
+- Bubble Sort
+  - How it works?
+  - Space Complexity of Bubble Sort
+  - Time Complexity of Bubble Sort (Best and Worst Case)
+  - Stability of Bubble Sort
+  - Code for Bubblesort algorithm   
+- Selection Sort
+  - How it works?
+  - Types (Acsending and Decsending)
+  - Time Complexity of Selection sort (Best and Worst Case)
+  - Stability
+  - Step wise Algorithm
+  - Code for Selection Sort    
+- Insertion Sort
+  - How it works?
+  - Example of Insertion sort
+  - Complexity of Insertion Sort (Best and Worst Case)
+  - Why do we need Insertion sort?
+  - Stability
+  - Code for Insertion Sort
+- Cyclic Sort (Very Important)
+  - How is it asked in Companies?
+  - How it works?
+  - Example of Cyclic Sort
+  - Complexity of Cyclic sort (Best and Worst Case)
+  - Code for Cyclic Sort
+- Merge Sort **(Needs Recursion)**
+  - How it works?
+  - Divide and Conquer (Recursion)
+  - Example of Merge Sort
+  - Step wise algorithm for merge sort
+  - Code for Merge Sort
+  - Time Complexity of Merge Sort Algorithm using Akkra Bazzi
+  - InPlace Merge Sort
+  - Code for InPlace Merge Sort
+- Quick Sort **(Needs Recursion)**
+  - How it works?
+  - What is a Pivot?
+  - where to place a Pivot?
+  - How to actually pick a pivot?
+  - Recursion Base Condition
+  - Time Complexity of Quick Sort (Best Case and Worst Case)
+  - Important Points for Quick Sort
+  - What are Hybrid Sort algorithms?
+  - Code for Quick Sort
+- Count Sort **(Requires HashMaps)**
+  - What is Count Sort?
+  - How it works?
+  - Example of Count Sort
+  - Step wise Algorithm for count sort
+  - Time Complexity (Best and Worst case)
+  - Space Complexity
+  - How Hashmap is used in Count Sort?
+  - Code for Count Sort without Hashmaps 
+  - Code for Count sort using Hashmap (Better Time Complexity)
+- Radix Sort
+  - What is Radix Sort?
+  - Buckets in Radix sort
+  - How Count sort is used in Radix sort?
+  - Code for Radix Sort
+  - Time Complexity of Radix Sort
   
 
 
