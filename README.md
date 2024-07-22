@@ -118,7 +118,53 @@ I recommend Going through the Notes first and then to the Codes Which are in dif
   - How Count sort is used in Radix sort?
   - Code for Radix Sort
   - Time Complexity of Radix Sort
-  
+
+**Linked Lists**
+- Limitations of Arrays and what arrays are missing?
+- Introduction to Linked Lists
+- What does Linked Lists Offer?
+- How are Linked List Stored?
+- Types of Linked Lists
+   - Singly Linked List
+   - Doubly Linked List
+   - Circular LinkedLists
+- Implementation of Singly Linked Lists (Code)
+- Displaying a Linked List
+- Insetion of a Node in a Linked List
+  - Insertiong at Start
+  - Insertion at End
+  - Insertiion in the Middle
+- Deletion of Node in a Linked List
+  - Deletion at First
+  - Deletion at End
+  - Deletion in the Middle
+- Finding a Node (Value) in the Linked List
+-  Cycle Detection in a LinkedList
+  - Fast and Slow pointer Method
+  - Two Possiblities Method
+  - Lenth of Linked List Cycles
+- Reversing a LinkedList both ways
+  - Recursive (requires recursion)
+  - Iterative
+- LeetCode Problems
+  - Recursive Insertion in LinkedList (Requires Recursion)
+  - LeetCode 83: Remove Duplicates from a sorted List:
+  - LeetCode 21: Merge two Sorted Lists
+  - LeetCode 141: LinkedList Cycles
+  - LeetCode 142: LinkedList Cycles 2 (Medium)
+  - LeetCode 202: Happy Number
+  - LeetCode 876: Middle of the LinkedList
+  - LeetCode 148: Sort List
+  - LeetCode 206: Reverse LinkedList (3 pointer method)
+  - LeetCode 92: Reversed LinkedList 2 (Medium)
+  - LeetCode 234: Palindrome LinkedList
+  - LeetCode 143: ReOrder List
+  - LeetCode 25: Reverse Node in K-Group
+  - LeetCode 61: Rotate List
+- Returning the Size of the LinkedList
+- Return Sum of Positive or Negative Numbers in LinkedList
+- Find the Lenght of Common Prefix
+- Return True if Even Indices are Strictly Increasing
 
 
 
