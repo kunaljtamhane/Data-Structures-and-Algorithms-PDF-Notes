@@ -166,5 +166,22 @@ I recommend Going through the Notes first and then to the Codes Which are in dif
 - Find the Lenght of Common Prefix
 - Return True if Even Indices are Strictly Increasing
 
-
+**Complexity (Time and Space)**
+- What is Time Complexity?
+- What to Consider when thinking about complexity?
+- Big-Oh Notation
+- Big-Omega Notation 
+- Theta Notation
+- Little-Oh Notation
+- Little-Omega Notation
+- What is Space Complexity?
+- What is Auxillary Space?
+- Complexity of Different Sorting Algorithms
+- Complexity for Recursive Function
+- Types of Recurrences
+- Solutions for Complexity
+- Akra Bazzi Formula
+- Solving Different Algorithms with Akra Bazzi Formula
+- Solving for Linear Recurrences
+- Solving for Non Linear Recurrences 
 
