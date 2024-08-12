@@ -183,5 +183,7 @@ I recommend Going through the Notes first and then to the Codes Which are in dif
 - Akra Bazzi Formula
 - Solving Different Algorithms with Akra Bazzi Formula
 - Solving for Linear Recurrences
-- Solving for Non Linear Recurrences 
+- Solving for Non Linear Recurrences
+
+**Stacks and Queues**
 
