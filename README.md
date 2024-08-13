@@ -186,4 +186,30 @@ I recommend Going through the Notes first and then to the Codes Which are in dif
 - Solving for Non Linear Recurrences
 
 **Stacks and Queues**
-
+- Stacks
+  - Push and Pop 
+  - FILO / LIFO
+  - Real World example of Stacks
+  - Time Complexity of Stacks
+- Queues
+  - Real World Example of Queues
+  - FIFO/LILO
+  - Difference between Stacks and Queues in Java
+- When to use Stacks and Queues
+- Deque (Deck)
+- Code for inbuilt Stack
+- Code for Inbuilt Queue
+- Array Deque
+- Custom Stack Implementation
+  - Constructor for size
+- Dynamic Stack
+- Custom Queue Implementation
+- Circular Queue
+- Implementation of Circular Queue
+- Dynamic Queue
+- LeetCode Problems
+  -LeetCode 232: Implement Queue using Stacks
+  - Game of Two Stacks
+  - LeetCode 84: Largest Rectangle in Histogram
+  - LeetCode 20: Valid Parantheses
+      
